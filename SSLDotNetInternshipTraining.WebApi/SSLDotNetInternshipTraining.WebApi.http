@@ -1,0 +1,6 @@
+@SSLDotNetInternshipTraining.WebApi_HostAddress = http://localhost:5049
+
+GET {{SSLDotNetInternshipTraining.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

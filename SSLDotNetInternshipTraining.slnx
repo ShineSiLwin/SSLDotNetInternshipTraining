@@ -1,4 +1,8 @@
 <Solution>
   <Project Path="SSLDotNetInternshipTraining.AdoDotNet/SSLDotNetInternshipTraining.AdoDotNet.csproj" />
   <Project Path="SSLDotNetInternshipTraining.Dapper/SSLDotNetInternshipTraining.Dapper.csproj" />
+  <Project Path="SSLDotNetInternshipTraining.Database/SSLDotNetInternshipTraining.Database.csproj" Id="5834f6e6-4036-46db-bc35-9e62d78e5747" />
+  <Project Path="SSLDotNetInternshipTraining.EFCore.Model/SSLDotNetInternshipTraining.EFCore.Model.csproj" Id="9bf96f3c-9c26-49c2-99ad-2d0f7c8d0cf7" />
+  <Project Path="SSLDotNetInternshipTraining.EFCoreSample2/SSLDotNetInternshipTraining.EFCoreSample2.csproj" Id="cb01af93-6b1c-4138-a13a-bc2c71161223" />
+  <Project Path="SSLDotNetInternshipTraining.WebApi/SSLDotNetInternshipTraining.WebApi.csproj" Id="3c7b5048-733c-412e-aff8-3cd596e00202" />
 </Solution>
